@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://snellc1.github.io/Counter/](https://snellc1.github.io/Counter/)
 
 ## My process
 
