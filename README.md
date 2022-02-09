@@ -61,6 +61,5 @@ Using jQuery to use the click function as change HTML.
 
 - Website - [Christopher Snell](https://www.your-site.com)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 
